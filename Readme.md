@@ -4,6 +4,8 @@
 1. /api/logs: for fetching all currrent travel logs
 2. /api/add: for creating new travel log
 
+##### Live Version Of App: https://personal-travel-log.netlify.app/
+
 * DataBase Structure
 1. Log Entry
 
