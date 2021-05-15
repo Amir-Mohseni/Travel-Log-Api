@@ -29,7 +29,7 @@ if( process.env.NODE_ENV === 'production' ){
 
 app.get('/', (req,res) => {
   res.json({
-    message: 'Hello World'
+    message: 'This Api is built for A travel log. the api has only two routes at the current time. /api/logs and /api/add.'
   })
 })
 
